@@ -1,4 +1,4 @@
-# calculadora01
+# calculadora_JavaPoo_Swing
 Calculadora em JavaSwing
 
 /*
